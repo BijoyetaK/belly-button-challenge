@@ -40,6 +40,7 @@ Module 14 Challenge - Build Interactive Dashboard using d3, plotly and leaflet l
   - https://www.tutorialsteacher.com/d3js/method-chaining-in-d3js
   - https://stackoverflow.com/questions/64994341/gauge-needle-for-plotly-indicator-graph
   - https://plotly.com/javascript/bubble-charts/
+  - https://www.tutorialsteacher.com/d3js/dom-manipulation-using-d3js
   - Module 14 activities and class examples
 
 
