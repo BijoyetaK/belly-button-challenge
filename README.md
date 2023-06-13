@@ -32,9 +32,16 @@ Module 14 Challenge - Build Interactive Dashboard using d3, plotly and leaflet l
   - Hover over the bubbles to learn about the microbes. 
    ![image](https://github.com/BijoyetaK/belly-button-challenge/assets/126313924/2fffd2e2-a24a-4a7b-9f76-ee6dc3661643)
    
-  ### Gauge chart : 
+  ### Gauge chart : Belly Button washing frequency
+  ![image](https://github.com/BijoyetaK/belly-button-challenge/assets/126313924/4d35bc5b-5d56-423b-add6-af421cb45615)
+
   
-  
+  ### references: 
+  - https://www.tutorialsteacher.com/d3js/method-chaining-in-d3js
+  - https://stackoverflow.com/questions/64994341/gauge-needle-for-plotly-indicator-graph
+  - https://plotly.com/javascript/bubble-charts/
+  - Module 14 activities and class examples
+
 
 
   
