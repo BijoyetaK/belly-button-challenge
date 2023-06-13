@@ -118,7 +118,7 @@ function makeGauge(sample_metadata){
         {
           domain: { x: [0, 1], y: [0, 1] },
           value: sample_metadata.wfreq,
-          title: { text: "<b>Belly Buttpon Washing Frequency <br>  Scrubs per Week</b>" },
+          title: { text: "<b>Belly Button Washing Frequency <br>  Scrubs per Week</b>" },
           type: "indicator",
           mode: "gauge+number",
           gauge: {
